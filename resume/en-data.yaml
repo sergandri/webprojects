@@ -1,0 +1,42 @@
+lang: en
+
+name:
+  first: "Julia"
+  last: "Velkina"
+
+position: "Head Graphic Designer at Amazon"
+
+contacts:
+  phone: "xxxxxxxx"
+  email: "julia_vel@bk.ru"
+  linkedIn: "julia"
+
+profile: "anytext"
+
+skills:
+- "Навык #1"
+- "Навык #2"
+- "Навык #3"
+- "Навык #4"
+- "Навык #5"
+- "Навык #6"
+
+experience:
+- workPeriod: "2019 - 2021"
+  companyName: "Netflix"
+  description: "anytext"
+
+- workPeriod: "2017 - 2019"
+  companyName: "Google"
+  description: "anytext"
+
+- workPeriod: "2015 - 2017"
+  companyName: "Tesla"
+  description: "anytext"
+
+education:
+- institutionName: "University name"
+  studyDirection: "Study direction"
+
+- institutionName: "University name"
+  studyDirection: "Study direction"
