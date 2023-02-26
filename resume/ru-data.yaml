@@ -1,17 +1,17 @@
 lang: ru
 
 name:
-  first: "Юлия"
-  last: "Велькина"
+  first: ""
+  last: ""
 
-position: "Дизайнер"
+position: ""
 
 contacts:
-  phone: "XXXXXXXX"
-  email: "julia_vel@bk.ru"
-  linkedIn: "julia"
+  phone: ""
+  email: ""
+  linkedIn: ""
 
-profile: "anytext"
+profile: ""
 
 skills:
 - "Навык #1"
@@ -22,21 +22,21 @@ skills:
 - "Навык #6"
 
 experience:
-- workPeriod: "2019 - 2021"
-  companyName: "Название компании"
-  description: "anytext"
+- workPeriod: ""
+  companyName: ""
+  description: ""
 
-- workPeriod: "2017 - 2019"
-  companyName: "Название компании"
-  description: "anytext"
+- workPeriod: ""
+  companyName: ""
+  description: ""
 
-- workPeriod: "2015 - 2017"
-  companyName: "Название компании"
-  description: "anytext"
+- workPeriod: ""
+  companyName: ""
+  description: ""
 
 education:
-- institutionName: "Наименование университета"
-  studyDirection: "Направление"
+- institutionName: ""
+  studyDirection: ""
 
-- institutionName: "Наименование университета"
-  studyDirection: "Направление"
+- institutionName: ""
+  studyDirection: ""
