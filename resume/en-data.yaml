@@ -1,17 +1,17 @@
 lang: en
 
 name:
-  first: "Julia"
-  last: "Velkina"
+  first: ""
+  last: ""
 
-position: "Head Graphic Designer at Amazon"
+position: ""
 
 contacts:
-  phone: "xxxxxxxx"
-  email: "julia_vel@bk.ru"
-  linkedIn: "julia"
+  phone: ""
+  email: ""
+  linkedIn: ""
 
-profile: "anytext"
+profile: ""
 
 skills:
 - "Навык #1"
@@ -22,7 +22,7 @@ skills:
 - "Навык #6"
 
 experience:
-- workPeriod: "2019 - 2021"
+- workPeriod: "2019+"
   companyName: "Netflix"
   description: "anytext"
 
